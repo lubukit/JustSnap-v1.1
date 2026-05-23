@@ -1,0 +1,11 @@
+{
+  "name": "JustSnap",
+  "short_name": "JustSnap",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#04A632",
+  "theme_color": "#04A632",
+  "description": "AI travel packing assistant",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
