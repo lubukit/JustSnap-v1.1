@@ -34,7 +34,7 @@ class _SnapScreenState extends State<SnapScreen> {
   @override
   Widget build(BuildContext context) {
     return ResponsiveShell(
-      currentRoute: routeName,
+      currentRoute: SnapScreen.routeName,
       child: CustomScrollView(
         slivers: [
           const SliverToBoxAdapter(
